@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Html Information</title>
+</head>
+<body>
+
+<h1>What is HTML</h1>
+<p>HTML is the standard markup language for Web pages.
+
+With HTML you can create your own Website. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application.</p>
+
+</body>
+</html>
